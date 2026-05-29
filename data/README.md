@@ -1,1 +1,1 @@
-Base de dados bruta e tratada utilizadas no projeto.
+Base de dados bruta, tratada e mapa dos acidentes utilizadas no projeto.
