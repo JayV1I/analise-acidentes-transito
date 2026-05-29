@@ -1,1 +1,0 @@
-notebook colab do modelo
