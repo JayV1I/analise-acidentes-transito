@@ -42,7 +42,7 @@ Dashboard interativo para análise de acidentes rodoviários no Brasil utilizand
 
 ## Dashboard Online
 
-https://accident-analyzer-x.lovable.app/
+https://road-scan-dashboard.lovable.app
 
 ---
 
