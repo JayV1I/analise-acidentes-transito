@@ -1,35 +1,27 @@
 # Road Scan Dashboard
 
-Dashboard interativo para análise de acidentes rodoviários no Brasil utilizando Ciência de Dados, Machine Learning e Business Intelligence.
+Dashboard interativo para análise de acidentes rodoviários no Brasil.
 
-## Tecnologias
-- Python
-- Pandas
-- PostgreSQL
-- Scikit-Learn
-- Random Forest
-- React
-- TypeScript
-- Tailwind
-- Plotly
+---
 
-## Funcionalidades
-- KPIs executivos
-- Mapas interativos
-- Análise temporal
-- BRs mais perigosas
-- Análise de veículos
-- Machine Learning
-- Feature Importance
+## Dashboard Principal
+
+![Dashboard](imagens/dashboard.png)
+
+---
+
+## KPIs Executivos
+
+![KPIs](imagens/kpis.png)
+
+---
+
+## Mapa Interativo
+
+![Mapa](imagens/mapa.png)
+
+---
 
 ## Machine Learning
-Modelo Random Forest para predição de acidentes graves.
 
-### Métricas
-- Accuracy: 62%
-- Precision: 53%
-- Recall: 57%
-- F1-Score: 55%
-
-## Dashboard Online
-LINK_DO_LOVABLE
+![ML](imagens/ml.png)
