@@ -6,31 +6,31 @@ Dashboard interativo para análise de acidentes rodoviários no Brasil utilizand
 
 ## Visão Geral
 
-![Visão Geral](imagens/visao%20geral1.png)
+![Visão Geral](imagens/visao_geral.png)
 
 ---
 
 ## Análise Temporal
 
-![Análise Temporal](imagens/analíse%20temporal3.png)
+![Análise Temporal](imagens/analise_temporal.png)
 
 ---
 
 ## Perfil dos Acidentes
 
-![Perfil dos Acidentes](imagens/perfil%20dos%20acidentes4.png)
+![Perfil dos Acidentes](imagens/perfil_acidentes.png)
 
 ---
 
 ## Veículos
 
-![Veículos](imagens/veículos5.png)
+![Veículos](imagens/veiculos.png)
 
 ---
 
 ## Machine Learning
 
-![Machine Learning](imagens/machine%20learning6.png)
+![Machine Learning](imagens/machine_learning.png)
 
 ---
 
@@ -42,8 +42,7 @@ Dashboard interativo para análise de acidentes rodoviários no Brasil utilizand
 
 ## Dashboard Online
 
-https://road-scan-dashboard.lovable.app
-
+![Conclusões](imagens/conclusoes.png)
 ---
 
 ## Tecnologias Utilizadas
