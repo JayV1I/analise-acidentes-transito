@@ -1,1 +1,35 @@
-dashboard interativo para o modelo Analise-acidentes-transito
+# Road Scan Dashboard
+
+Dashboard interativo para análise de acidentes rodoviários no Brasil utilizando Ciência de Dados, Machine Learning e Business Intelligence.
+
+## Tecnologias
+- Python
+- Pandas
+- PostgreSQL
+- Scikit-Learn
+- Random Forest
+- React
+- TypeScript
+- Tailwind
+- Plotly
+
+## Funcionalidades
+- KPIs executivos
+- Mapas interativos
+- Análise temporal
+- BRs mais perigosas
+- Análise de veículos
+- Machine Learning
+- Feature Importance
+
+## Machine Learning
+Modelo Random Forest para predição de acidentes graves.
+
+### Métricas
+- Accuracy: 62%
+- Precision: 53%
+- Recall: 57%
+- F1-Score: 55%
+
+## Dashboard Online
+LINK_DO_LOVABLE
