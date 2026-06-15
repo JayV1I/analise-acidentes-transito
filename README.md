@@ -8,7 +8,7 @@ Dashboard interativo para análise de acidentes rodoviários no Brasil, baseado 
 
 Panorama executivo com KPIs recalculados em tempo real conforme os filtros aplicados.
 
-![Visão Geral](imagens/visao_geral_png.png)
+![Visão Geral](imagens/visao_geral.png)
 
 ---
 
@@ -24,7 +24,7 @@ Distribuição espacial dos acidentes com clusterização inteligente e rankings
 
 Distribuição dos acidentes por hora do dia, dia da semana, mês e fase do dia.
 
-![Análise Temporal](imagens/analise_temporal_png.png)
+![Análise Temporal](imagens/analise_temporal.png)
 
 ---
 
@@ -32,7 +32,7 @@ Distribuição dos acidentes por hora do dia, dia da semana, mês e fase do dia.
 
 Tipos de acidente, condição meteorológica, tipo de pista, severidade e distribuição de vítimas.
 
-![Perfil dos Acidentes](imagens/perfil_acidentes_png.png)
+![Perfil dos Acidentes](imagens/perfil_acidentes.png)
 
 ---
 
@@ -40,7 +40,7 @@ Tipos de acidente, condição meteorológica, tipo de pista, severidade e distri
 
 Top 15 veículos mais envolvidos e índice de risco por tipo de veículo.
 
-![Veículos](imagens/veiculos_png.png)
+![Veículos](imagens/veiculos.png)
 
 ---
 
@@ -48,7 +48,7 @@ Top 15 veículos mais envolvidos e índice de risco por tipo de veículo.
 
 Modelo Random Forest para previsão da gravidade dos acidentes — acurácia, matriz de confusão e importância das variáveis.
 
-![Machine Learning](imagens/machine_learning_png.png)
+![Machine Learning](imagens/machine_learning.png)
 
 ---
 
@@ -56,7 +56,7 @@ Modelo Random Forest para previsão da gravidade dos acidentes — acurácia, ma
 
 Síntese executiva dos principais achados para subsidiar a tomada de decisão.
 
-![Conclusões](imagens/conclusoes_png.png)
+![Conclusões](imagens/conclusoes.png)
 ## Tecnologias Utilizadas
 
 * Python
